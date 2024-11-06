@@ -1,5 +1,5 @@
 {
-    "tesseract_directory": "E:\\Tesseract",
+    "tesseract_directory": "C:<\\Program Files\\Tesseract-OCR>",
     "refresh_time": "300",
     "refresh_time_success": "6000",
     "debug_mode": "disabled",
